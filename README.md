@@ -1,1 +1,1 @@
-# ImageClassificationCNN
+# Image Classification using CNN
